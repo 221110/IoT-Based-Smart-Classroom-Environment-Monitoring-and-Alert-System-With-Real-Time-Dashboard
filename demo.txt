@@ -1,0 +1,12 @@
+# Demo Instructions
+
+1. Run backend:
+   python app.py
+
+2. Open frontend:
+   Open index.html in browser
+
+3. (Optional) Run MQTT simulation:
+   python publisher.py
+
+This simulates real IoT data without hardware.
